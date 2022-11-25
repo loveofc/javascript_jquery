@@ -1,0 +1,52 @@
+@charset "utf-8";
+@import "../reset.css";
+
+.btn{
+    margin-top:10px;
+    margin-left:20px;
+    padding:10px 20px;
+}
+
+.title_1{
+    font-size: 28px;
+    margin: 10px 0px 10px 10px;
+}
+
+.title_2{
+    font-size: 24px;
+    margin: 10px 0px 10px 10px;
+}
+
+.lists li{
+    padding-left:40px;
+    padding-bottom: 10px;
+}
+
+.circle{
+    margin-right:5px;
+    display: inline-block;
+    width:10px;
+    height:10px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.exclass{
+    margin-left:50px;
+    margin-bottom:50px;
+    width:350px;
+    border-top:1px solid  black;
+    border-bottom:1px solid  black;
+}
+
+.exclass p{
+    margin-left:20px;
+}
+.subLi{
+    list-style: none;
+}
+img{
+    display: block;
+    margin-left:50px;
+    margin-bottom: 50px;
+}
